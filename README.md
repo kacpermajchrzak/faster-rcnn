@@ -11,7 +11,7 @@ This implementation may help you understand how Faster RCNN work. Two main files
 
 ## How to run
 
-1. `bash pip install requirements.txt`
+1. `pip install -r requirements.txt`
 2. Later go through `DataPreprocessing.ipynb` and get data which are needed for training.
 3. To speed up training resize data in `resizing.ipynb`
 4. If you done all of that go to `DataPreprocessing.ipynb`
